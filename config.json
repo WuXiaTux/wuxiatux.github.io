@@ -3,7 +3,7 @@
     "subTitle":"一个喜欢破解、编程和写音乐的初中生",
     "avatarUrl":"https://avatars.githubusercontent.com/u/173267642?v=4",
     "script":"<script src='https://blog.liyifan.xyz/assets/copy.js'></script><script src='https://blog.meekdai.com/Gmeek/plugins/lightbox.js'></script><script>document.getElementById('cmButton').click();</script><script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'></script><script src='https://blog.meekdai.com/Gmeek/plugins/GmeekVercount.js'></script>",
-    "indexStyle":"<style>body{background-image:url('https://wuxiatux.github.io/1.jpg');background-repeat:no-repeat;}</style>",
+    "style":"<style>body{background-image:url('https://wuxiatux.github.io/1.jpg');background-repeat:no-repeat;}</style>",
     "needComment":1,
     "GMEEK_VERSION":"last"
 }
