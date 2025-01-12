@@ -3,7 +3,8 @@
 [下载链接](https://rutracker.net/forum/viewtopic.php?t=6621585)
 
 ### 下面是具体操作方法
-（最好在网站中的下图两处也查看安装的方法，以免本文出错，如果发现文章错误可以在[此处](https://github.com/WuXiaTux/wuxiatux.github.io/issues/2)留言）
+（最好在网站中的下图两处也查看安装的方法，以免本文出错，如果发现文章错误可以在[此处](https://github.com/WuXiaTux/wuxiatux.github.io/issues/2)留言
+因为本人不使用FLEX插件，这里不给出安装方法，详细请查看链接中原作者的方法）
 ![0](https://github.com/user-attachments/assets/d3cc8421-768c-46ae-970a-9d7779661178)
 首先点击我给出的链接，然后往下滑，找到下图中框出的部分，**右键**并点击**复制链接**
 ![1](https://github.com/user-attachments/assets/678a7188-3252-4ab4-a287-23a07517171c)
@@ -20,5 +21,5 @@
 下载完成后打开下载目录，再打开其中的FL安装包
 ![6](https://github.com/user-attachments/assets/45c4b8bf-d3eb-47e9-8045-79e883428a70)
 因为图片不易解释操作，请观看下面的视频一步一步操作
-![sp](https://1703059013.wistia.com/medias/02b59w16m6)
+https://1703059013.wistia.com/medias/02b59w16m6
 本文使用CC BY-NC协议，除作者本人转载外必须注明原作者姓名，且未经作者许可不得使用作品谋取经济利益
