@@ -15,10 +15,10 @@
 ![3](https://github.com/user-attachments/assets/7375cd2a-9310-4a48-9c80-84d7f42fbdd2)
 然后会进入下图界面，点击右下角的**确定**
 ![4](https://github.com/user-attachments/assets/e0f967ea-76bb-46b6-b4ba-b7372088884e)
-随后便会开始下载，等待下载完成
+随后便会开始下载，等待下载完成时请关闭杀软以免出现问题。
 ![5](https://github.com/user-attachments/assets/cc9267e8-7630-4f79-bb0f-e383369585d5)
 下载完成后打开下载目录，再打开其中的FL安装包
 ![6](https://github.com/user-attachments/assets/45c4b8bf-d3eb-47e9-8045-79e883428a70)
 因为图片不易解释操作，请观看下面的视频一步一步操作
-未完待续
+<a href="https://thumbsnap.com/naD4VoUN" title="video by WuXiaTux"><img src="https://thumbsnap.com/t/naD4VoUN.jpg" alt="Free Photo Sharing by ThumbSnap" /></a>
 本文使用CC BY-NC协议，除作者本人转载外必须注明原作者姓名，且未经作者许可不得使用作品谋取经济利益
