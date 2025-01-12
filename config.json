@@ -2,7 +2,7 @@
     "title":"武侠Tux的个人博客",
     "subTitle":"一个喜欢破解、编程和写音乐的科技UP主",
     "avatarUrl":"https://avatars.githubusercontent.com/u/173267642?v=4",
-    "script":"<script>document.getElementById('cmButton').click();</script><script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'></script><script src='https://blog.meekdai.com/Gmeek/plugins/GmeekVercount.js'></script>",
+    "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/lightbox.js'></script><script>document.getElementById('cmButton').click();</script><script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'></script><script src='https://blog.meekdai.com/Gmeek/plugins/GmeekVercount.js'></script>",
     "needComment":1,
     "GMEEK_VERSION":"last"
 }
