@@ -21,5 +21,5 @@
 下载完成后打开下载目录，再打开其中的FL安装包
 ![6](https://github.com/user-attachments/assets/45c4b8bf-d3eb-47e9-8045-79e883428a70)
 因为图片不易解释操作，请观看下面的视频一步一步操作
-https://1703059013.wistia.com/medias/02b59w16m6
+https://wuxiatux.wistia.com/medias/02b59w16m6
 本文使用CC BY-NC协议，除作者本人转载外必须注明原作者姓名，且未经作者许可不得使用作品谋取经济利益
