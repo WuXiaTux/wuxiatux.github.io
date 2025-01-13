@@ -7,6 +7,7 @@
     "nightTheme":"dark-blue",
     "script":"<script src='https://blog.liyifan.xyz/assets/copy.js'></script><script src='https://blog.meekdai.com/Gmeek/plugins/lightbox.js'></script><script>document.getElementById('cmButton').click();</script><script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'></script><script src='https://blog.meekdai.com/Gmeek/plugins/GmeekVercount.js'></script>",
     "style":"<style>body{background-image:url('https://wuxiatux.github.io/2.jpg');}</style>",
+    "bottomText":"若要评论，请登录Github后在[此处](https://github.com/WuXiaTux/wuxiatux.github.io/issues/2)进行",
     "needComment":1,
     "GMEEK_VERSION":"last"
 }
